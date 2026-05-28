@@ -12,11 +12,11 @@ The best way to live a good life is to learn and grow, constantly learning new t
 - Trained and compared 4 models: Logistic Regression, Random Forest, XGBoost, CatBoost.
  Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-blue?style=flat-square)
 
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+![Polish](https://img.shields.io/badge/Polish-Native%20%2F%20Bilingual-yellow?style=flat-square)
 
-![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+![English](https://img.shields.io/badge/English-Technical%20(Reading%20%2B%20Code)-lightgrey?style=flat-square)
 
 ## 🛠 Skills
 
